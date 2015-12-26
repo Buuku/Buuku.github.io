@@ -1,2 +1,2 @@
-# buuku.github.io
-Repository
+# Buuku.github.io
+Landing Page for Website
